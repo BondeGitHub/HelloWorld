@@ -1,0 +1,7 @@
+C:\Users\Bonde\JBD\VISUAL STUDIO\JBD\PLAYGROUND\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Bonde\JBD\VISUAL STUDIO\JBD\PLAYGROUND\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Bonde\JBD\VISUAL STUDIO\JBD\PLAYGROUND\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Bonde\JBD\VISUAL STUDIO\JBD\PLAYGROUND\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Bonde\JBD\VISUAL STUDIO\JBD\PLAYGROUND\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Bonde\JBD\VISUAL STUDIO\JBD\PLAYGROUND\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Bonde\JBD\VISUAL STUDIO\JBD\PLAYGROUND\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
